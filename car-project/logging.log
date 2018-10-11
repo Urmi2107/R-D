@@ -1,0 +1,8 @@
+2018-10-10 13:47:04 [main] DEBUG com.capgemini.car_project.CarService - processing car:BMW
+2018-10-10 13:47:04 [main] INFO  com.capgemini.car_project.CarService - processing car:BMW
+2018-10-10 13:47:04 [main] WARN  com.capgemini.car_project.CarService - processing car:BMW
+2018-10-10 13:47:04 [main] ERROR com.capgemini.car_project.CarService - processing car:BMW
+2018-10-10 14:46:00 [main] DEBUG com.capgemini.car_project.CarService - processing car:BMW
+2018-10-10 14:46:00 [main] INFO  com.capgemini.car_project.CarService - processing car:BMW
+2018-10-10 14:46:00 [main] WARN  com.capgemini.car_project.CarService - processing car:BMW
+2018-10-10 14:46:00 [main] ERROR com.capgemini.car_project.CarService - processing car:BMW
